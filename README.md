@@ -1,7 +1,7 @@
 # Movie-Recommendation-Project
 Flatiron Phase One Project: Analysis Project to Make Recommendations to Hypothetical Microsoft Movie Studios 
 
-## Business Understanding: 
+## Overview: 
 Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don't know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 
 ## Citation:
@@ -9,7 +9,7 @@ Much of this project and its code come directly from https://github.com/ElyLin/M
 
 In my presentation, I recommend making films based on DOOM, Wolfenstein, The Elder Scrolls: Skyrim, Fallout and Dishonored, all Bethesda games that Microsoft bought the rights to in 2020. https://news.microsoft.com/2020/09/21/microsoft-to-acquire-zenimax-media-and-its-game-publisher-bethesda-softworks/
 
-## Overview:
+## Business Understanding:
 
 In this project, I hope to make a recommendation to Microsoft based on the Net Profit of the films. I'm using Net Profit as my main financial data metric since Microsoft is already so large and successful that they can afford to put some investment into their films. They don't need to focus on getting a high profit from a low-budget film, they don't need to be so conservative with their investments. They can instead safely invest by following my recommendations.
 
