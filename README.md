@@ -2,7 +2,7 @@
 Flatiron Phase One Project: Analysis Project to Make Recommendations to Hypothetical Microsoft Movie Studios 
 
 ## Overview: 
-Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don't know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
+Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don't know anything about creating movies. I've been charged with exploring what types of films are currently doing the best at the box office. I must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 
 ## Citation:
 Much of this project and its code come directly from https://github.com/ElyLin/MovieAnalysisProject where I was a contributor. After being a contributor to the group project, I wanted to go back and re-explore my process and analysis on my own.
@@ -41,17 +41,22 @@ After cleaning and removing null values and duplicates, this analysis will use a
 1) Made a row for each film for each genre it fell into
 2) Aggregated data based on genre and mean net profit
 3) Visualized aggregated data to learn that the genres with the most net profit are: Animation, Adventure, Fantasy, and Family
+![](/Users/b0ihazard/Documents/Flatiron/first phase/Film_Analysis_Project/Visualizations/Genre\ by\ Net\ Profit.png)
+
 ### Release Date: 
 1) Manipulated release date information into a date-time value 
 2) Made a new column for the month in numeric and Name values
 3) Made a pivot table to aggregate data based on month with average net profit for: Animation, Adventure, Fantasy, and Family films
 4) Visualized Data using a stacked bar chart where each bar is a month, broken into genres to show overall net profit
-5) Visualization showed the most profitable months to release films in these genres are: June, May, March of any genre, or July with an emphasis on non-Fantasy films (which, interestingly do much better in November.)
+5) Visualization showed the most profitable month to release this film in would be June followed by July, May, March, November and April.
+![](/Users/b0ihazard/Documents/Flatiron/first phase/Film_Analysis_Project/Visualizations/Net\ Profit\ by\ Genre by Month.png)
+
 ### Runtime: 
 1) Made initial scatterplot to show net profit based on runtime
 2) When initial scatterplot was inconclusive, made runtime data into four bins: Sixty, One hundred twenty, One hundred fifty, and One hundred eighty
 3) Aggregated runtime data based on four bins by net profit 
 4) Visualized in a bar chart four bins by net profit and learned that films between 120-150 minutes in those four recommended genres did best consistently
+![](/Users/b0ihazard/Documents/Flatiron/first phase/Film_Analysis_Project/Visualizations/Net\ Profit\ by\ Runtime\ Bin.png)
 
 ## Conclusion
 My three business recommendations to Microsoft Studios would be:
