@@ -41,7 +41,10 @@ After cleaning and removing null values and duplicates, this analysis will use a
 1) Made a row for each film for each genre it fell into
 2) Aggregated data based on genre and mean net profit
 3) Visualized aggregated data to learn that the genres with the most net profit are: Animation, Adventure, Fantasy, and Family
-![](/Users/b0ihazard/Documents/Flatiron/first phase/Film_Analysis_Project/Visualizations/Genre\ by\ Net\ Profit.png)
+
+
+![image](https://user-images.githubusercontent.com/8728172/142077861-5aadef98-a9da-4f4d-8c15-b278bfc7e14d.png)
+
 
 ### Release Date: 
 1) Manipulated release date information into a date-time value 
@@ -49,14 +52,20 @@ After cleaning and removing null values and duplicates, this analysis will use a
 3) Made a pivot table to aggregate data based on month with average net profit for: Animation, Adventure, Fantasy, and Family films
 4) Visualized Data using a stacked bar chart where each bar is a month, broken into genres to show overall net profit
 5) Visualization showed the most profitable month to release this film in would be June followed by July, May, March, November and April.
-![](/Users/b0ihazard/Documents/Flatiron/first phase/Film_Analysis_Project/Visualizations/Net\ Profit\ by\ Genre by Month.png)
+
+
+![image](https://user-images.githubusercontent.com/8728172/142077955-2f570ec8-26fc-441e-8a03-826a7be8e3a8.png)
+
 
 ### Runtime: 
 1) Made initial scatterplot to show net profit based on runtime
 2) When initial scatterplot was inconclusive, made runtime data into four bins: Sixty, One hundred twenty, One hundred fifty, and One hundred eighty
 3) Aggregated runtime data based on four bins by net profit 
 4) Visualized in a bar chart four bins by net profit and learned that films between 120-150 minutes in those four recommended genres did best consistently
-![](/Users/b0ihazard/Documents/Flatiron/first phase/Film_Analysis_Project/Visualizations/Net\ Profit\ by\ Runtime\ Bin.png)
+
+
+![image](https://user-images.githubusercontent.com/8728172/142078008-526c5c6e-a68b-4ec1-bc0d-92c28a21a98c.png)
+
 
 ## Conclusion
 My three business recommendations to Microsoft Studios would be:
