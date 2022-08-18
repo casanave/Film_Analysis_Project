@@ -36,7 +36,7 @@ tmdb = pd.read_csv('zippedData/tmdb.movies.csv.gz')
 ## Size of Data: 
 After cleaning and removing null values and duplicates, this analysis will use a dataset the size of 2,864 films.
 
-## Meathods of Analysis: 
+## Methods of Analysis: 
 ### Genre: 
 1) Made a row for each film for each genre it fell into
 2) Aggregated data based on genre and mean net profit
